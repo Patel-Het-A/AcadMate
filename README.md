@@ -42,6 +42,10 @@ npm run start
 
 ## 👨‍💻 Developed By
 
-**Sahil Rakholiya , Madhyam Kodinariya , Het Patel , Jeet Paghdal **
+- **Sahil Rakholiya** 
+- **Madhyam Kodinariya** 
+- **Het Patel** 
+- **Jeet Paghdal** 
+
 
 
